@@ -8,5 +8,4 @@
 </a>
 
 <br> <br>
-
-⭐️ From [Anjanay](https://github.com/Dras-07)
+💚 From [Anjanay](https://github.com/Dras-07)
