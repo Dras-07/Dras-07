@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anjanay Singh</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dras-07&label=Profile%20views&color=0e75b6&style=flat" alt="dras-07" /> </p>
 
