@@ -1,10 +1,10 @@
+<!-- 
 
 
 
+<h1 align="center">Hi 👋, I'm Anjanay Singh</h1> -->
 
-<h1 align="center">Hi 👋, I'm Anjanay Singh</h1>
-
-
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dras-07&label=Profile%20views&color=0e75b6&style=flat" alt="dras-07" /> </p>
 
 - 📫 How to reach me **anjanays619@gmail.com**
@@ -30,6 +30,7 @@
 <!-- </a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dras-07&hide=stars,issues&count_private=true&show_icons=true"/>
 </a> -->
-<a href="https://github.com/Dras-07">
+<!-- <a href="https://github.com/Dras-07">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dras-07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</a>
+</a> -->
+ --> -->
